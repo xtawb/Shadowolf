@@ -1,0 +1,12 @@
+# ShadowWolf - Requirements
+# Python 3.8+
+
+# Network Scanning
+scapy==2.5.0
+python-nmap==0.7.1
+
+# PDF Reporting
+fpdf2==2.7.4
+
+# Terminal Colors and Styling
+colorama==0.4.6
